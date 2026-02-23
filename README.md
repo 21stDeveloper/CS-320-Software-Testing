@@ -42,4 +42,4 @@ This project reinforced the importance of defensive programming, validation logi
 
 Ariel Chavarria  
 Southern New Hampshire University  
-B.S. in Computer Science
+A.S. in Computer Science
